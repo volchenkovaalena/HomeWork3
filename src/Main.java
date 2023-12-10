@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-
         int a = 20000;
         byte b = 126;
         short c = 2000;
@@ -16,6 +15,7 @@ public class Main {
         System.out.println("Значение переменной d с типом long равно " + d);
         System.out.println("Значение переменной f с типом float равно " + f);
         System.out.println("Значение переменной g с типом double равно " + g);
+
 
        float q = 27.12f;
        long w = 987678965549L;
