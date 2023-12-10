@@ -16,6 +16,7 @@ public class Main {
         System.out.println("Значение переменной f с типом float равно " + f);
         System.out.println("Значение переменной g с типом double равно " + g);
 
+
        float q = 27.12f;
        long w = 987678965549L;
        float e = 2.786f;
