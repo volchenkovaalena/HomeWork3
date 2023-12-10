@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-
         int a = 20000;
         byte b = 126;
         short c = 2000;
